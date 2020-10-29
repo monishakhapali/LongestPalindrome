@@ -1,0 +1,13 @@
+C:\Users\monisha.khapali\source\repos\LongestPalin\LongestPalin\bin\Debug\netcoreapp3.1\LongestPalin.exe
+C:\Users\monisha.khapali\source\repos\LongestPalin\LongestPalin\bin\Debug\netcoreapp3.1\LongestPalin.deps.json
+C:\Users\monisha.khapali\source\repos\LongestPalin\LongestPalin\bin\Debug\netcoreapp3.1\LongestPalin.runtimeconfig.json
+C:\Users\monisha.khapali\source\repos\LongestPalin\LongestPalin\bin\Debug\netcoreapp3.1\LongestPalin.runtimeconfig.dev.json
+C:\Users\monisha.khapali\source\repos\LongestPalin\LongestPalin\bin\Debug\netcoreapp3.1\LongestPalin.dll
+C:\Users\monisha.khapali\source\repos\LongestPalin\LongestPalin\bin\Debug\netcoreapp3.1\LongestPalin.pdb
+C:\Users\monisha.khapali\source\repos\LongestPalin\LongestPalin\obj\Debug\netcoreapp3.1\LongestPalin.csprojAssemblyReference.cache
+C:\Users\monisha.khapali\source\repos\LongestPalin\LongestPalin\obj\Debug\netcoreapp3.1\LongestPalin.AssemblyInfoInputs.cache
+C:\Users\monisha.khapali\source\repos\LongestPalin\LongestPalin\obj\Debug\netcoreapp3.1\LongestPalin.AssemblyInfo.cs
+C:\Users\monisha.khapali\source\repos\LongestPalin\LongestPalin\obj\Debug\netcoreapp3.1\LongestPalin.csproj.CoreCompileInputs.cache
+C:\Users\monisha.khapali\source\repos\LongestPalin\LongestPalin\obj\Debug\netcoreapp3.1\LongestPalin.dll
+C:\Users\monisha.khapali\source\repos\LongestPalin\LongestPalin\obj\Debug\netcoreapp3.1\LongestPalin.pdb
+C:\Users\monisha.khapali\source\repos\LongestPalin\LongestPalin\obj\Debug\netcoreapp3.1\LongestPalin.genruntimeconfig.cache
